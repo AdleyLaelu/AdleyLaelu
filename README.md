@@ -4,6 +4,17 @@
 - 🔭 I’m currently working on [MultiCloudAIChallenge](https://github.com/AdleyLaelu/MultiCloudChallenge)
 
 - 👯 I’m looking to collaborate on **Day2**
+---
+
+## 📂 DevOps Projects
+
+### **Multi Cloud AI**
+- Automating AWS Resource provisioning with Terraform [](https://github.com/AdleyLaelu/MultiCloudChallenge)  
+- [osTicket: Post-Installation Configuration](#)  
+- [osTicket: Ticket Lifecycle Examples](#)  
+
+---
+## 📂 another
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
