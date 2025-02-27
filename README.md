@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Laeticia Aloyem</h1>
 <h3 align="center">I am a passionate cloud enthusiast with a deep commitment to deploying applications on AWS, automating workflows using Terraform, and implementing efficient CI/CD pipelines</h3>
 
-- 🔭 I’m currently working on [MultiCloudAIChallenge](https://github.com/AdleyLaelu/MultiCloudChallenge)
-
-- 👯 I’m looking to collaborate on **Day2**
 ---
 
 ## 📂 DevOps Projects
 
 ### **Multi Cloud AI**
 - [Automating AWS Resource provisioning with Terraform](https://github.com/AdleyLaelu/MultiCloudChallenge)
-- [osTicket: Post-Installation Configuration](#)  
-- [osTicket: Ticket Lifecycle Examples](#)  
 
 ---
-## 📂 another
+## 📂 AWC Cloud Projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
