@@ -7,6 +7,7 @@
 
 ### **Multi Cloud AI**
 - [Automating AWS Resource provisioning with Terraform](https://github.com/AdleyLaelu/MultiCloudChallenge)
+- [Containerizing an application (CloudMart) with frontend and backend components on a Kubernetes cluster using Amazon EKS](https://github.com/AdleyLaelu/MultiCloudDevOpsAI2)
 
 ---
 ## 📂 AWC Cloud Projects
