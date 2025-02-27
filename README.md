@@ -9,7 +9,7 @@
 ## 📂 DevOps Projects
 
 ### **Multi Cloud AI**
-- Automating AWS Resource provisioning with Terraform [](https://github.com/AdleyLaelu/MultiCloudChallenge)  
+- Automating AWS Resource provisioning with Terraform [MultiCloudAIChallenge](https://github.com/AdleyLaelu/MultiCloudChallenge)
 - [osTicket: Post-Installation Configuration](#)  
 - [osTicket: Ticket Lifecycle Examples](#)  
 
