@@ -8,6 +8,8 @@
 ### **MultiCloud-DevOps-AI**
 - [Automating AWS Resource provisioning with Terraform](https://github.com/AdleyLaelu/MultiCloudChallenge)
 - [Containerizing an application (CloudMart) with frontend and backend components on a Kubernetes cluster using Amazon EKS](https://github.com/AdleyLaelu/MultiCloudDevOpsAI2)
+- [Putting the CloudMart App on autopilot with DevOps CI/CD pipelines on AWS CodePipeline and deploy the source code changes](https://github.com/AdleyLaelu/MultiCloudDevOpsAI3)
+- [Integrating AI-powered assistants for product recommendations, customer support, and sentiment analysis](https://github.com/AdleyLaelu/MultiCloudDevOpsAIChallenge4)
 
 ---
 ## 📂 AWC Cloud Projects
